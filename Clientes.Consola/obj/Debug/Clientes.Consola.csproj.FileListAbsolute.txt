@@ -1,0 +1,7 @@
+C:\Users\Jeremias\source\repos\Clientes\Clientes.Consola\bin\Debug\Clientes.Consola.exe.config
+C:\Users\Jeremias\source\repos\Clientes\Clientes.Consola\bin\Debug\Clientes.Consola.exe
+C:\Users\Jeremias\source\repos\Clientes\Clientes.Consola\bin\Debug\Clientes.Consola.pdb
+C:\Users\Jeremias\source\repos\Clientes\Clientes.Consola\obj\Debug\Clientes.Consola.csprojAssemblyReference.cache
+C:\Users\Jeremias\source\repos\Clientes\Clientes.Consola\obj\Debug\Clientes.Consola.csproj.CoreCompileInputs.cache
+C:\Users\Jeremias\source\repos\Clientes\Clientes.Consola\obj\Debug\Clientes.Consola.exe
+C:\Users\Jeremias\source\repos\Clientes\Clientes.Consola\obj\Debug\Clientes.Consola.pdb

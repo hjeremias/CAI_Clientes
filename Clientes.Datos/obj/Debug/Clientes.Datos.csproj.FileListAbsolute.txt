@@ -1,0 +1,11 @@
+C:\Users\Jeremias\source\repos\Clientes\Clientes.Datos\bin\Debug\Clientes.Datos.dll
+C:\Users\Jeremias\source\repos\Clientes\Clientes.Datos\bin\Debug\Clientes.Datos.pdb
+C:\Users\Jeremias\source\repos\Clientes\Clientes.Datos\bin\Debug\Clientes.Entidades.dll
+C:\Users\Jeremias\source\repos\Clientes\Clientes.Datos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jeremias\source\repos\Clientes\Clientes.Datos\bin\Debug\Clientes.Entidades.pdb
+C:\Users\Jeremias\source\repos\Clientes\Clientes.Datos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jeremias\source\repos\Clientes\Clientes.Datos\obj\Debug\Clientes.Datos.csprojAssemblyReference.cache
+C:\Users\Jeremias\source\repos\Clientes\Clientes.Datos\obj\Debug\Clientes.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Jeremias\source\repos\Clientes\Clientes.Datos\obj\Debug\Clientes.Datos.csproj.CopyComplete
+C:\Users\Jeremias\source\repos\Clientes\Clientes.Datos\obj\Debug\Clientes.Datos.dll
+C:\Users\Jeremias\source\repos\Clientes\Clientes.Datos\obj\Debug\Clientes.Datos.pdb
