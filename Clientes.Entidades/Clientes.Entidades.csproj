@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Cliente.cs" />
+    <Compile Include="Cuenta.cs" />
     <Compile Include="Exceptions\DniInvalidoException.cs" />
     <Compile Include="Exceptions\MenorDeEdadException.cs" />
     <Compile Include="Exceptions\NoCamposVaciosException.cs" />
